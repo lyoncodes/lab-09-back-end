@@ -1,0 +1,19 @@
+{
+  "name": "lab-09-back-end",
+  "version": "1.0.0",
+  "description": "The Real Lab 09 # Project Name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyoncodes/lab-09-back-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyoncodes/lab-09-back-end/issues"
+  },
+  "homepage": "https://github.com/lyoncodes/lab-09-back-end#readme"
+}
